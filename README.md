@@ -18,6 +18,9 @@ This configuration includes the following modifications:
 
 ## Installation
 
-1.  Install [Karabiner-Elements](httpss://karabiner-elements.pqrs.org/).
-2.  Place the `karabiner.json` file in your `~/.config/karabiner/` directory.
-3.  Karabiner-Elements will automatically load the new configuration.
+Install [Karabiner-Elements](httpss://karabiner-elements.pqrs.org/).
+
+Then, run the install.sh script:
+
+    ./install.sh
+
